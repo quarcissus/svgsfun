@@ -2,7 +2,7 @@ const moonPath = "M251 5.99999C96 -22 1.99999 82.0002 0.999994 195C-6.13928e-06 
 
 const timeline = anime.timeline({
     duration: 1400,
-    easing: "easeInQuad"
+    easing: "easeInQuad",
 });
 
 timeline.add({
